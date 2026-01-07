@@ -36,13 +36,13 @@ O chatbot segue o seguinte fluxo:ㅤㅤ
 
 Pergunta do usuárioㅤ
 ㅤ→
-Pré-processamento do texto (limpeza, remoção de stop words e stemming)ㅤ
+ㅤㅤPré-processamento do texto (limpeza, remoção de stop words e stemming)ㅤ
 ㅤ→
-Vectorização com CountVectorizerㅤㅤ
+ㅤㅤVectorização com CountVectorizerㅤㅤ
   →
-Classificação com Naive Bayesㅤㅤ
+ㅤㅤClassificação com Naive Bayesㅤㅤ
   →
-Resposta automática baseada na categoriaㅤㅤ
+ㅤㅤResposta automática baseada na categoriaㅤㅤ
 ㅤㅤ
 ## Exemplos de Uso
 Pergunta: Como faço a inscrição para o ensino médio do IFPI?
