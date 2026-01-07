@@ -31,18 +31,18 @@ Versionamento: Git e GitHub
 Organização do projeto: Trello
 
 ## Funcionamento do Sistema
-O chatbot segue o seguinte fluxo:
-
-Pergunta do usuário
-↓
-Pré-processamento do texto (limpeza, remoção de stop words e stemming)
-↓
-Vectorização com CountVectorizer
-↓
-Classificação com Naive Bayes
-↓
-Resposta automática baseada na categoria
-
+O chatbot segue o seguinte fluxo:ㅤㅤ
+ㅤㅤ
+Pergunta do usuárioㅤㅤ
+↓ㅤㅤ
+Pré-processamento do texto (limpeza, remoção de stop words e stemming)ㅤㅤ
+↓ㅤㅤ
+Vectorização com CountVectorizerㅤㅤ
+↓ㅤㅤ
+Classificação com Naive Bayesㅤㅤ
+↓ㅤㅤ
+Resposta automática baseada na categoriaㅤㅤ
+ㅤㅤ
 ## Exemplos de Uso
 Pergunta: Como faço a inscrição para o ensino médio do IFPI?
 Resposta: O ingresso nos cursos técnicos do IFPI ocorre por meio de Exame de Seleção.
