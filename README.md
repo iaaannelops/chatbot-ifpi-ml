@@ -31,15 +31,20 @@ Versionamento: Git e GitHub
 Organização do projeto: Trello
 
 ## Funcionamento do Sistema
+
 O chatbot segue o seguinte fluxo:ㅤㅤ
 ㅤㅤ
-Pergunta do usuárioㅤㅤ
+Pergunta do usuárioㅤ
+ㅤ
 ↓ㅤㅤ
-Pré-processamento do texto (limpeza, remoção de stop words e stemming)ㅤㅤ
+Pré-processamento do texto (limpeza, remoção de stop words e stemming)ㅤ
+ㅤ
 ↓ㅤㅤ
 Vectorização com CountVectorizerㅤㅤ
+
 ↓ㅤㅤ
 Classificação com Naive Bayesㅤㅤ
+
 ↓ㅤㅤ
 Resposta automática baseada na categoriaㅤㅤ
 ㅤㅤ
